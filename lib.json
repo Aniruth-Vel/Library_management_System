@@ -1,0 +1,23 @@
+[
+    {
+    "bid":101,
+    "bname":"The Alchemist",
+    "author":"Paulo Coelho",
+    "location":"A3",
+    "availability":"yes"
+    },
+    {
+    "bid":102,
+    "bname":"In Search of Lost Time",
+    "author":"Marcel Proust",
+    "location":"B3",
+    "availability":"no"
+    },
+    {
+    "bid":103,
+    "bname":"Ulysses",
+    "author":"James Joyce",
+    "location":"D7",
+    "availability":"no"
+    }
+]
